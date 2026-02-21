@@ -89,23 +89,6 @@ class LeoLodi {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Leonardolodi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardolodi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Leonardolodi&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Percorso Accademico
 
 ```
