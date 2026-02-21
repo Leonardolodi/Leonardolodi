@@ -127,6 +127,4 @@ Se hai un progetto interessante, un'idea folle o vuoi semplicemente scambiare du
 
 *"Pensato, Progettato, Scritto."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Leonardolodi.Leonardolodi)
-
 </div>
