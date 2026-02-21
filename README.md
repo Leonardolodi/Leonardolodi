@@ -120,12 +120,12 @@ class LeoLodi {
 
 Se hai un progetto interessante, un'idea folle o vuoi semplicemente scambiare due chiacchiere di tech...
 
-[![Email](https://img.shields.io/badge/Scrivimi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo@lodidigitalsolutions.com)
+[![Email](https://img.shields.io/badge/Scrivimi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ldolrd.informatica@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lodidigitalsolutions.com/)
 
 ---
 
-*"Prima risolvi il problema, poi scrivi il codice."*
+*"Pensato, Progettato, Scritto."*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Leonardolodi.Leonardolodi)
 
