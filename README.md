@@ -99,9 +99,7 @@ class LeoLodi {
 │       Algoritmi · Basi di Dati · Reti · S.O.
 │       Web Dev · OOP · Matematica · Statistica
 │
-└── 🚀 Magistrale — Data Science & Big Data              📍 In corso
-        Machine Learning · Big Data · AI · Data Mining
-        Cloud Computing · Deep Learning
+└── 🚀 Magistrale — Cybersecurity, Ing. Informatica      📍 In corso
 ```
 
 ---
@@ -109,7 +107,7 @@ class LeoLodi {
 ## 🌱 Cosa sto imparando ora
 
 - 🤖 **Machine Learning** & **Deep Learning** (PyTorch, TensorFlow)
-- ☁️ **Cybersecurity** & sicurezza nei sistemi informatici
+- 🔐 **Cybersecurity** & sicurezza nei sistemi informatici
 - 🗃️ **Big Data** con Spark e Hadoop
 - 📊 **Data Visualization** avanzata
 - ☁️ **Cloud** (AWS / GCP)
