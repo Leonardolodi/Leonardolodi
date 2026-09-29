@@ -10,7 +10,7 @@
 ```
 
 ### 👋 Ciao, sono **Leo Lodi**
-#### 💻 Full-Stack Dev · 🎓 MSc AI & Big Data @ Unife · 🍓 Ferrara, IT
+#### 💻 Full-Stack Dev · 🎓 MSc Cybersecurity, AI @ Unife · 🍓 Ferrara, IT
 
 <br>
 
@@ -39,7 +39,7 @@ class LeoLodi {
     ];
 
     public array $magistrale = [
-        "titolo"    => "MSc Data Science & Big Data",
+        "titolo"    => "Cybersecurity, Ingegneria Informatica e dell'Automazione",
         "ateneo"    => "Università degli Studi di Ferrara",
         "status"    => "in corso 🚀",
     ];
@@ -48,7 +48,7 @@ class LeoLodi {
         "Web Development",
         "Machine Learning",
         "Data Engineering",
-        "Open Source",
+        "Cybersecurity",
     ];
 
     public function saluta(): string {
@@ -109,6 +109,7 @@ class LeoLodi {
 ## 🌱 Cosa sto imparando ora
 
 - 🤖 **Machine Learning** & **Deep Learning** (PyTorch, TensorFlow)
+- ☁️ **Cybersecurity** & sicurezza nei sistemi informatici
 - 🗃️ **Big Data** con Spark e Hadoop
 - 📊 **Data Visualization** avanzata
 - ☁️ **Cloud** (AWS / GCP)
